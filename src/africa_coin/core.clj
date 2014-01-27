@@ -23,3 +23,5 @@
 (def btc-z (zoo btc :Date))
 (def btc-r (log-return btc-z :Close))
 
+;; Displays the results in the REPL 
+view btc-r
