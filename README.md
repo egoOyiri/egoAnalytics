@@ -1,11 +1,13 @@
 egoAnalytics
 ============
 
-Repository used to provide Analytics Data and View to allow the conversion of Virtual Currency to Local Currencies.
+A Clojure library designed to provide Exchange Rates for African based countries, along with Analytics Data and View to allow the conversion of Virtual Currency to Local Currencies.
 
-# egoAnalytics
+# Technology Used:
+A JVM based Analytics tool is required, only Incanter (written in Clojure) seems to match the R Project.
+Incanter allows the data extract and writting from Files and URLs, dumping results as CSV files and diplayed by D3.JS Javascripts is the ultimate goal.
+Akka Server along with Spray library will provide REST/APIs and Web Content. 
 
-A Clojure library designed to provide Exchange Rates.
 
 ## Usage
 
