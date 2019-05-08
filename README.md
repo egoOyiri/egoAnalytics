@@ -25,3 +25,8 @@ Copyleft © 2014 EgoOyiri [AfricaCoin]
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+
+
+## Data Source
+
+https://hackernoon.com/data-data-data-11-great-financial-data-vendors-844d2cfce77d
